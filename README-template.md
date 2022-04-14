@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My solution URL here](https://github.com/vigengareyan/single-price-grid-component)
 - Live Site URL: [My live site URL here](https://single-price-grid-component.vigengareyan.repl.co/)
 
 ## My process
